@@ -1,8 +1,8 @@
 /**
- * A CUDA solver for the Advection Problem.
- * https://en.wikipedia.org/wiki/Advection
+ * A CUDA solver for the Diffusion Problem.
+ * https://en.wikipedia.org/wiki/Diffusion_equation
  * 
- * @file advection_solver.cu
+ * @file diffusion_solver.cu
  * @author Lars L Ruud
 */
 
